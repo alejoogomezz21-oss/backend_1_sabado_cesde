@@ -2,20 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1356600e-2a79-4108-b207-3f10717a0197" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepasosDeJava/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepasosDeJava/.idea/misc.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepasosDeJava/.idea/modules.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepasosDeJava/.idea/vcs.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepasosDeJava/RepasosDeJava.iml" beforeDir="false" afterPath="$PROJECT_DIR$/backend_1_sabado_cesde.iml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RepasosDeJava/src/application/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/RepasosDeJava/src/application/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semana 01/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/semana 01/application/Main.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/semana 01/application/Main.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/application/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Main.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -61,7 +49,7 @@
     "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
     "RunOnceActivity.git.unshallow": "true",
     "RunOnceActivity.typescript.service.memoryLimit.init": "true",
-    "git-widget-placeholder": "semana02",
+    "git-widget-placeholder": "semana03",
     "kotlin-language-version-configured": "true",
     "last_opened_file_path": "D:/Desktop/backend_1_sabado_cesde",
     "project.structure.last.edited": "Modules",
